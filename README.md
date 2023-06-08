@@ -1,4 +1,4 @@
-## Intro to Processor Architecture - Project (Spring 2023)
+## Implementation of Y86 Processor Architecture - Project 
 
 This project involved the development of a processor architecture design based on the Y86 ISA using Verilog. The goal was to create a design that met specified requirements and could be thoroughly tested using simulations.
 
@@ -51,5 +51,6 @@ To verify the design, the following approaches were recommended:
   <li>popq
 <ul>
 
+  ---
 
 This project provided a valuable opportunity to gain hands-on experience with processor architecture design, Verilog coding, and testing methodologies.
